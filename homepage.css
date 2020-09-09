@@ -1,0 +1,47 @@
+#anshul {
+    font-size: 50px;
+    padding-left: 200px;
+    color:rgb(52, 224, 153);
+    font-style: bold;
+}
+#div {
+    width: 789px;
+    border: 2px solid yellow;
+    padding: 120px;
+    margin: 20px;
+    outline-style: solid;
+    outline-color: invert;
+
+}
+#under {
+    color: rgb(0, 255, 21);
+    padding-left: 30px;
+    font-size: 20px;
+}
+#login {
+    color: white;
+    padding-left:560px;
+    font-style: bold;
+    font-size:40px;
+    color:rgb(6, 243, 6);
+}
+#email {
+    padding-bottom: 10px;
+    padding-left: 500px;
+    font-size:19px;
+    color: rgb(6, 243, 6);
+    border-radius: 0px;
+}
+#ema {
+    align-content: center;
+    background-color: orange;
+    border-radius: 15px;
+}
+#legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
